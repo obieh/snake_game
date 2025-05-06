@@ -1,2 +1,2 @@
 # snake_game
-# If there is a pygame error, then install pygame on vscode
+# Simple snake game to be deployed in K8S
